@@ -8,7 +8,7 @@ Created a single COG (Cloud Optimized GeoTIFF) file from a bunch of JPEG with Wo
 
 ## Demo
 1. Open https://cogeo.xyz/
-2. Enter https://x.optgeo.org/handa.tif as COG url
+2. Enter https://x.optgeo.org/handa.tif as COG url there
 
 ## About the source
 The source data are aerial photos taken by and provided from a municipal government in Japan. 
